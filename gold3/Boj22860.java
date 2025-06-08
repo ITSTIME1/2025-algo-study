@@ -5,6 +5,7 @@ import java.util.*;
 
 public class Boj22860 {
     public static void main(String[] args) throws IOException{
+
         
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
@@ -83,4 +84,5 @@ public class Boj22860 {
         }
         return sum;
     }
+
 }
